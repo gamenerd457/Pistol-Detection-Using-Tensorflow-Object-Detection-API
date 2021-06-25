@@ -5,9 +5,9 @@ In this project i have used TFOD to detect pistols from images ,
 
 **Results**
 * before detection
-![](https://github.com/gamenerd457/Pistol-Detection-Using-Tensorflow-Object-Detection-API/blob/master/gun11.jpg)
+* ![](https://github.com/gamenerd457/Pistol-Detection-Using-Tensorflow-Object-Detection-API/blob/master/gun11.jpg)
 * after detection
-![](https://github.com/gamenerd457/Pistol-Detection-Using-Tensorflow-Object-Detection-API/blob/master/test_image1.jpg)
+* ![](https://github.com/gamenerd457/Pistol-Detection-Using-Tensorflow-Object-Detection-API/blob/master/test_image1.jpg)
 
 
 # Credits :- https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/supplement/wbql7/eager-few-shot-object-detection 
